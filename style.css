@@ -110,6 +110,8 @@ button:hover {
 
 #message {
     padding: 5%;
+    height: 500px;
+    overflow-y: auto;
 }
 
 #message p {
